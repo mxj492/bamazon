@@ -10,3 +10,6 @@ mysql
 dot-env
 inquirer
 cli-table
+
+Customer View
+https://drive.google.com/file/d/173dRFiwcKinQ7BR06wiWD6rNvt2T6nVS/view
