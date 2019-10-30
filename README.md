@@ -3,7 +3,7 @@
  
 Technologies Used
 Javascript
-nodeJS
+NodeJS
 MySQL
 npm packages:
 mysql
