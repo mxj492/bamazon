@@ -11,5 +11,9 @@ dot-env
 inquirer
 cli-table
 
-Customer View
+Customer 
 https://drive.google.com/file/d/173dRFiwcKinQ7BR06wiWD6rNvt2T6nVS/view
+
+Manager
+
+https://drive.google.com/file/d/17blJhQYfu0opK6v-r3vLLMyhyhcJ-56F/view
